@@ -1,0 +1,57 @@
+
+	    html{
+
+	    	height: 79%;
+	    	width :99%;
+	    }
+
+	    body {
+
+	    	font-family: sans-serif;
+	    	width: 100%;
+	    	height: 100%;
+	    }
+		
+		#shape {
+
+			width: 200px;
+			height: 200px;
+			background-color: red;
+			display: none;
+			position: relative;
+			margin: 0px;
+
+		}
+
+		.bold {
+
+			font-weight: bold;
+		}
+
+		#borderdiv{
+
+			
+
+			position: relative;
+
+			width: 100%;
+
+			height: 100%;
+
+			border: 1px solid green;
+		}
+
+		#avgTime{
+
+			color: red;
+		}
+
+		#bestTime {
+
+			color:blue;
+		}
+
+		#timeTaken {
+
+			color:purple;
+		}
